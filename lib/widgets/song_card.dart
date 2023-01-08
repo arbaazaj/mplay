@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:mplay/song_model.dart';
+import 'package:mplay/models/song_model.dart';
 
 class SongCard extends StatelessWidget {
   const SongCard({
