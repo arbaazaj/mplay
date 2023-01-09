@@ -17,7 +17,7 @@ class Song {
           'We Rollin Song Download by Shubh and composed by Shubh where Lyrics Penned by Shubh',
       url: 'https://pagalworld.ink/files/download/type/320/id/10023',
       coverUrl:
-          'https://pagalworld.ink/siteuploads/thumb/sft21/10023_resize_300x300.webp',
+          'https://songs6.vlcmusic.com/tiny_image/timthumb.php?q=100&w=500&src=images/42944.png',
     ),
     Song(
       title: 'Deewane Hum',
