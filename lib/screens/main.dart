@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:mplay/homepage.dart';
-import 'package:mplay/playlist_screen.dart';
-import 'package:mplay/song_screen.dart';
+import 'package:mplay/screens/homepage.dart';
+import 'package:mplay/screens/playlist_screen.dart';
+import 'package:mplay/screens/song_screen.dart';
 
 void main() {
   runApp(const MyApp());
